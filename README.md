@@ -129,7 +129,7 @@ To view the results, run the following SQL query:
 SELECT * FROM results;
 ```
 ## How to Use
-Set up the database by executing the provided SQL statements to create the sequence and results table.
-Compile the main function and type definitions in your Oracle environment.
-Use the anonymous PL/SQL block to calculate the square root of a number and save the result.
+Set up the database by executing the provided SQL statements to create the sequence and results table.\
+Compile the main function and type definitions in your Oracle environment.\
+Use the anonymous PL/SQL block to calculate the square root of a number and save the result.\
 Query the results table to see all the square root calculations.
